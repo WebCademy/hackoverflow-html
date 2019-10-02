@@ -7,6 +7,22 @@ a {
 	color: #2985c8;
 }
 
+.site-title-wrapper {
+	padding: 3rem 0px 1rem;
+	text-align: center;
+
+}
+
+.site-title {
+	font-size: 40px;
+	color: #78909C;
+	font-weight: 600;
+}
+
+.site-title:hover {
+	text-decoration: none;
+}
+
 .rate {
 	display: flex;
 	flex-direction: column;
