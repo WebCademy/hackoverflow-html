@@ -67,3 +67,24 @@ a {
 .vote__minus {
 	font-size: 18px;
 }
+
+.input-for-badges {
+	border: none;
+	width: auto;
+}
+
+.badges-input {
+	display: flex;
+	align-items: center;
+}
+
+.badges-input .badge {
+	flex-grow: 0;
+	margin-right: 5px;
+}
+
+.input-for-badges {
+	flex-grow: 5;
+	padding-left: 3px;
+	padding-right: 3px;
+}
